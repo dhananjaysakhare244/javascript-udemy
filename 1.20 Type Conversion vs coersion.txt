@@ -1,0 +1,14 @@
+Type Conversion means manually convert from one type to another.
+
+'1991'+18 => 18 will be converted to string. will print 199118.
+
+Convert 1991 to number using Number('1991');
+
+Type Coersion means JS automatically converts it for us
+
+log('My age is '+'23') // My age is 23 as string
+log('23'-'10'-3)// 10 string converted to number
+
+log(2+3+4+'5') //'95' will be the output
+log(10-5-2+'5') //'35' as + is happening
+
