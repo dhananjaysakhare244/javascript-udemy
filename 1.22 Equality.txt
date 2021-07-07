@@ -1,0 +1,5 @@
+=== does not convert the values implicitly.
+
+
+if('18' === 18) //checks '18' with 18 returns false.
+if('18' == 18)// converts '18' to number and then checks 18 == 18 returns true
