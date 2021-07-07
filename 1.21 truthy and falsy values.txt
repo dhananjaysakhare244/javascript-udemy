@@ -1,0 +1,7 @@
+only 5 values are falsy
+
+null undefined 0 '' NaN
+
+Empty object is truthy
+
+in if condition all the values we are coersed (implicitly converted) to boolean
